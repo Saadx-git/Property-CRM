@@ -1,4 +1,4 @@
-// File: /home/saad/Everything/University/Semester_6/WEB/property-crm/src/app/dashboard/leads/page.tsx
+// File: /home/saad/Everything/University/Semester_6/WEB/Assignment_3/src/app/dashboard/leads/page.tsx
 import * as entry from '../../../../../src/app/dashboard/leads/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
